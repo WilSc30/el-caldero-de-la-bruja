@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Vela blanca espiritual",
+    "precio": 3000,
+    "stock": "Disponible",
+    "categoria": "Velas",
+    "imagen": "vela-blanca.jpg"
+  },
+  {
+    "nombre": "Vela violeta ritual",
+    "precio": 3500,
+    "stock": "Agotado",
+    "categoria": "Velas",
+    "imagen": "vela-violeta.jpg"
+  },
+  {
+    "nombre": "Incienso de sándalo",
+    "precio": 1500,
+    "stock": "Disponible",
+    "categoria": "Inciensos",
+    "imagen": "incienso-sandalo.jpg"
+  },
+  {
+    "nombre": "Sahumerio limpieza energética",
+    "precio": 2000,
+    "stock": "Disponible",
+    "categoria": "Sahumerios",
+    "imagen": "sahumerio.jpg"
+  },
+  {
+    "nombre": "Palo Santo natural",
+    "precio": 2500,
+    "stock": "Agotado",
+    "categoria": "Palo Santo",
+    "imagen": "palo-santo.jpg"
+  }
+]
